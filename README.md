@@ -48,9 +48,8 @@ const Boss = {
 <summary><b>🎨 Frontend Mastery</b></summary>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vue,vite" alt="Frontend"/>
+    <img src="https://skillicons.dev/icons?i=vue,vite,bootstrap,tailwind" alt="Frontend"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" alt="UI"/>
 </div>
 </details>
 
