@@ -74,31 +74,11 @@ const thanwa = {
 
 <br>
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<br>
-
-<div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sunchai268&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunchai268&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
-<br>
-
-<div align="center">
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunchai268&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" />
-</div>
-
-<br>
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunchai268&bg_color=0D1117&color=6E46AE&line=00C2FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
-</div>
 
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
-    <a href="https://instagram.com/Sunchai268">
+    <a href="https://www.instagram.com/04.238_/">
         <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
 </div>
