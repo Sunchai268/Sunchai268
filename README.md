@@ -12,9 +12,7 @@
 </h3>
 
 <div align="center">
-    <img src="https://img.shields.io/github/followers/decemberlnwza007?style=for-the-badge&logo=github&labelColor=6E46AE&color=00C2FF" alt="GitHub followers"/>
-    <img src="https://img.shields.io/github/stars/decemberlnwza007?style=for-the-badge&logo=github&labelColor=6E46AE&color=00C2FF" alt="GitHub stars"/>
-    <img src="https://komarev.com/ghpvc/?username=decemberlnwza007&style=for-the-badge&color=6E46AE" alt="Profile views"/>
+  
 </div>
 
 <br/>
