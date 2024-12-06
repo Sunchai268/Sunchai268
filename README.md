@@ -25,11 +25,11 @@
 </h2>
 
 ```javascript
-const thanwa = {
-    code: ["JavaScript", "Python", "PHP", "TypeScript", "C#", "Flutter", "C"],
+const Boss = {
+    code: ["JavaScript", "Python", "PHP", "Flutter"],
     currentlyFocused: {
-        "🌐 Web Development": ["React", "Vue", "Next.js"],
-        "📱 Mobile": ["Flutter", "React Native"],
+        "🌐 Web Development": ["Vue" , "Nodejs" , "HTML" , "CSS"],
+        "📱 Mobile": ["Flutter"],
     },
     funFact: "Debugging is like being the detective in a crime movie 🔍"
 };
