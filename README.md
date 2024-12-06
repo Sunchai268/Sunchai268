@@ -8,7 +8,7 @@
 
 <h3 align="center">
     Information Technology Student
-    <img src="https://tenor.com/view/excited-gif-23852520" height="30px"/>
+    <img src="https://tenor.com/view/excited-gif-23852520" height=""/>
 </h3>
 
 <div align="center">
