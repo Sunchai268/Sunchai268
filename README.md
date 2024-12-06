@@ -49,9 +49,9 @@ const thanwa = {
 <summary><b>🎨 Frontend Mastery</b></summary>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite" alt="Frontend"/>
+    <img src="https://skillicons.dev/icons?i=vue,vite" alt="Frontend"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,threejs" alt="UI"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" alt="UI"/>
 </div>
 </details>
 
@@ -67,9 +67,9 @@ const thanwa = {
 <summary><b>🛠️ Development Tools</b></summary>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,firebase,bun,npm,docker" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" alt="Tools"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=mysql,postman,vercel,arduino" alt="More Tools"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postman,arduino" alt="More Tools"/>
 </div>
 </details>
 
@@ -78,32 +78,32 @@ const thanwa = {
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=decemberlnwza007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" width="100%" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sunchai268&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" width="100%" alt="Trophy" />
 </div>
 
 <br>
 
 <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=decemberlnwza007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=decemberlnwza007&theme=tokyonight&hide_border=true&background=0D1117" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sunchai268&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunchai268&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <br>
 
 <div align="center">
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decemberlnwza007&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" />
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunchai268&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" />
 </div>
 
 <br>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=decemberlnwza007&bg_color=0D1117&color=6E46AE&line=00C2FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunchai268&bg_color=0D1117&color=6E46AE&line=00C2FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
-    <a href="https://instagram.com/decemberlnwza007">
+    <a href="https://instagram.com/Sunchai268">
         <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
 </div>
