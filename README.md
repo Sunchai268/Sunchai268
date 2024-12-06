@@ -42,7 +42,7 @@ const thanwa = {
 <summary><b>💻 Language</b></summary>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,python,php,c,cs,javascript,typescript,flutter" alt="Frontend"/>
+    <img src="https://skillicons.dev/icons?i=html,css,python,php,javascript,flutter" alt="Frontend"/>
 </div>
 
 <details open>
