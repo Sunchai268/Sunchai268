@@ -8,7 +8,6 @@
 
 <h3 align="center">
     Information Technology Student
-    <img src="https://tenor.com/view/excited-gif-23852520" height=""/>
 </h3>
 
 <div align="center">
@@ -76,10 +75,6 @@ const thanwa = {
 <br>
 
 <h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sunchai268&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" width="100%" alt="Trophy" />
-</div>
 
 <br>
 
