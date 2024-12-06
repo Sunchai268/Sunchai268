@@ -68,7 +68,7 @@ const Boss = {
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" alt="Tools"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=mysql,postman,arduino" alt="More Tools"/>
+    <img src="https://skillicons.dev/icons?i=ps,ai,mysql,postman,arduino" alt="More Tools"/>
 </div>
 </details>
 
